@@ -1,5 +1,5 @@
-names: Auto Close PRs
-#correct
+name: Auto Close PRs
+
 on:
   pull_request_target:
     types: [opened, reopened]
